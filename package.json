@@ -1,0 +1,22 @@
+{
+  "name": "study-miura-js-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Remote-Pairpro/study-miura-js-react.git"
+  },
+  "author": "kazuhit-m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Remote-Pairpro/study-miura-js-react/issues"
+  },
+  "homepage": "https://github.com/Remote-Pairpro/study-miura-js-react#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
